@@ -1,0 +1,28 @@
+{
+  "appTitle": "AI文档评估",
+  "documentUpload": "上传文档",
+  "dropzoneText": "拖放文档至此处",
+  "dropzoneActive": "放置文档于此处",
+  "supportedFormats": "支持的格式：PDF、DOC、DOCX",
+  "currentFile": "当前文件",
+  "analyzeButton": "AI分析",
+  "analyzing": "分析中...",
+  "assessmentCriteria": "评估标准",
+  "aiAnalysis": "AI分析",
+  "totalScore": "总分",
+  "exportReport": "导出评估报告",
+  "criteria": {
+    "structure": {
+      "title": "文档结构",
+      "description": "评估文档的整体组织和布局"
+    },
+    "content": {
+      "title": "内容质量",
+      "description": "评估信息的清晰度、准确性和完整性"
+    },
+    "visual": {
+      "title": "视觉呈现",
+      "description": "评估格式、图形和视觉元素的使用"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "appTitle": "Evaluación de Documentos con IA",
+  "documentUpload": "Subir Documento",
+  "dropzoneText": "Arrastra y suelta tu documento aquí",
+  "dropzoneActive": "Suelta tu documento aquí",
+  "supportedFormats": "Formatos soportados: PDF, DOC, DOCX",
+  "currentFile": "Archivo actual",
+  "analyzeButton": "Analizar con IA",
+  "analyzing": "Analizando...",
+  "assessmentCriteria": "Criterios de Evaluación",
+  "aiAnalysis": "Análisis de IA",
+  "totalScore": "Puntuación Total",
+  "exportReport": "Exportar Informe de Evaluación",
+  "criteria": {
+    "structure": {
+      "title": "Estructura del Documento",
+      "description": "Evaluar la organización general y el diseño del documento"
+    },
+    "content": {
+      "title": "Calidad del Contenido",
+      "description": "Evaluar la claridad, precisión y completitud de la información"
+    },
+    "visual": {
+      "title": "Presentación Visual",
+      "description": "Evaluar el uso del formato, gráficos y elementos visuales"
+    }
+  }
+}

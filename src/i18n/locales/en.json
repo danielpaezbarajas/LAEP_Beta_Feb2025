@@ -1,0 +1,28 @@
+{
+  "appTitle": "AI-Powered Document Assessment",
+  "documentUpload": "Document Upload",
+  "dropzoneText": "Drag & drop your document here",
+  "dropzoneActive": "Drop your document here",
+  "supportedFormats": "Supported formats: PDF, DOC, DOCX",
+  "currentFile": "Current file",
+  "analyzeButton": "Analyze with AI",
+  "analyzing": "Analyzing...",
+  "assessmentCriteria": "Assessment Criteria",
+  "aiAnalysis": "AI Analysis",
+  "totalScore": "Total Score",
+  "exportReport": "Export Assessment Report",
+  "criteria": {
+    "structure": {
+      "title": "Document Structure",
+      "description": "Evaluate the overall organization and layout of the document"
+    },
+    "content": {
+      "title": "Content Quality",
+      "description": "Assess the clarity, accuracy, and completeness of the information"
+    },
+    "visual": {
+      "title": "Visual Presentation",
+      "description": "Rate the use of formatting, graphics, and visual elements"
+    }
+  }
+}

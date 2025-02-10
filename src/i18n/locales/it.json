@@ -1,0 +1,28 @@
+{
+  "appTitle": "Valutazione Documenti con IA",
+  "documentUpload": "Carica Documento",
+  "dropzoneText": "Trascina e rilascia il tuo documento qui",
+  "dropzoneActive": "Rilascia il tuo documento qui",
+  "supportedFormats": "Formati supportati: PDF, DOC, DOCX",
+  "currentFile": "File corrente",
+  "analyzeButton": "Analizza con IA",
+  "analyzing": "Analisi in corso...",
+  "assessmentCriteria": "Criteri di Valutazione",
+  "aiAnalysis": "Analisi IA",
+  "totalScore": "Punteggio Totale",
+  "exportReport": "Esporta Rapporto di Valutazione",
+  "criteria": {
+    "structure": {
+      "title": "Struttura del Documento",
+      "description": "Valuta l'organizzazione generale e il layout del documento"
+    },
+    "content": {
+      "title": "Qualità del Contenuto",
+      "description": "Valuta la chiarezza, l'accuratezza e la completezza delle informazioni"
+    },
+    "visual": {
+      "title": "Presentazione Visiva",
+      "description": "Valuta l'uso della formattazione, della grafica e degli elementi visivi"
+    }
+  }
+}

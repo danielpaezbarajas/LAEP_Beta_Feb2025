@@ -1,0 +1,28 @@
+{
+  "appTitle": "Évaluation de Documents Assistée par IA",
+  "documentUpload": "Téléchargement de Document",
+  "dropzoneText": "Glissez et déposez votre document ici",
+  "dropzoneActive": "Déposez votre document ici",
+  "supportedFormats": "Formats supportés : PDF, DOC, DOCX",
+  "currentFile": "Fichier actuel",
+  "analyzeButton": "Analyser avec l'IA",
+  "analyzing": "Analyse en cours...",
+  "assessmentCriteria": "Critères d'Évaluation",
+  "aiAnalysis": "Analyse IA",
+  "totalScore": "Score Total",
+  "exportReport": "Exporter le Rapport d'Évaluation",
+  "criteria": {
+    "structure": {
+      "title": "Structure du Document",
+      "description": "Évaluer l'organisation générale et la mise en page du document"
+    },
+    "content": {
+      "title": "Qualité du Contenu",
+      "description": "Évaluer la clarté, l'exactitude et l'exhaustivité des informations"
+    },
+    "visual": {
+      "title": "Présentation Visuelle",
+      "description": "Évaluer l'utilisation de la mise en forme, des graphiques et des éléments visuels"
+    }
+  }
+}

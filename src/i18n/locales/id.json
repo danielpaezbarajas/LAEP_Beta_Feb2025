@@ -1,0 +1,28 @@
+{
+  "appTitle": "Penilaian Dokumen Berbasis AI",
+  "documentUpload": "Unggah Dokumen",
+  "dropzoneText": "Tarik & letakkan dokumen Anda di sini",
+  "dropzoneActive": "Letakkan dokumen Anda di sini",
+  "supportedFormats": "Format yang didukung: PDF, DOC, DOCX",
+  "currentFile": "File saat ini",
+  "analyzeButton": "Analisis dengan AI",
+  "analyzing": "Menganalisis...",
+  "assessmentCriteria": "Kriteria Penilaian",
+  "aiAnalysis": "Analisis AI",
+  "totalScore": "Skor Total",
+  "exportReport": "Ekspor Laporan Penilaian",
+  "criteria": {
+    "structure": {
+      "title": "Struktur Dokumen",
+      "description": "Evaluasi organisasi dan tata letak dokumen secara keseluruhan"
+    },
+    "content": {
+      "title": "Kualitas Konten",
+      "description": "Nilai kejelasan, akurasi, dan kelengkapan informasi"
+    },
+    "visual": {
+      "title": "Presentasi Visual",
+      "description": "Nilai penggunaan format, grafik, dan elemen visual"
+    }
+  }
+}
